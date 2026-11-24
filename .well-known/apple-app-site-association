@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["J3Z88B9C6G.no.moloo.app"],
+        "components": [{ "/": "/moloo/join.html", "#": "join=*" }]
+      },
+      {
+        "appIDs": ["J3Z88B9C6G.no.hjemmeapp.development"],
+        "components": [{ "/": "/moloo/join.html", "#": "dev-join=*" }]
+      }
+    ]
+  }
+}
